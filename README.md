@@ -1,4 +1,6 @@
 # bitcointreasuries
+Wat is een wereld nog waard, waarin de Bitcoin Treasuries **NIET** tijdens de [@CryptoCastNL](https://www.twitter.com/CryptoCastNL) opgenoemd worden? Herbert heeft nu geen excuus meer om deze niet te behandelen, aangezien deze tool speciaal voor hem gebouwd is.
+
 
 ## Project setup
 ```
