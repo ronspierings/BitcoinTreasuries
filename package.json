@@ -11,6 +11,7 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "jquery": "^3.6.0",
+    "sheetrock": "^1.1.4",
     "vue": "^2.6.11",
     "vue-axios": "^3.2.4",
     "vuetify": "^2.4.0"
@@ -43,7 +44,9 @@
     },
     "rules": {
       "no-unused-vars": "off",
-      "no-debugger": "off"
+      "vue/no-unused-vars": "off",
+      "no-debugger": "off",
+      "no-undef": "off"
     }
   },
   "browserslist": [

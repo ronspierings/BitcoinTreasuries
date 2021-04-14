@@ -4,6 +4,7 @@ import vuetify from './plugins/vuetify';
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 import jQuery from 'jquery'
+import sheetrock from 'sheetrock'
 
 global.$ = jQuery
 
